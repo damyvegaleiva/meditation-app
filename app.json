@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "meditation-app",
-    "slug": "meditation-app",
+    "name": "iMeditate",
+    "slug": "imeditate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "iMeditate",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/simpleMeditationLogo.png",

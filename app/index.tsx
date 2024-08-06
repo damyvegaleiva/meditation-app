@@ -17,7 +17,7 @@ const App = () => {
         resizeMode="cover"
         className="flex-1"
       >
-        <AppGradient colors={["rgba(0, 0, 0, 0.4)", "rgba(0, 0, 0, 0.8)"]}>
+        <AppGradient colors={["transparent", "rgba(0, 0, 0, 0.8)"]}>
           <SafeAreaView className="justify-between flex-1 px-1">
             <View>
               <Text className="text-4xl font-bold text-center text-white">
